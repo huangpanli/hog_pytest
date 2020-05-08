@@ -1,0 +1,11 @@
+#! encoding=gbk
+
+def open():
+    print("´ò¿ªä¯ÀÀÆ÷")
+def close():
+    print("¹Ø±Õä¯ÀÀÆ÷")
+
+
+if __name__ == '__main__':
+    open()
+    close()
